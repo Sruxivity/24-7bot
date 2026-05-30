@@ -28,17 +28,17 @@
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": true,
-      "repeat-delay": 120,
+      "repeat": false,
+      "repeat-delay": 120999999,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
-    "chat-log": true,
+    "chat-log": false,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 20000,
     "max-reconnect-delay": 120000
   },
   "movement": {
