@@ -9,7 +9,7 @@
     "ip": "dihg.aternos.me",
     "port": 24326,
     "version": "1.12.2",
-    "try-creative": false,
+    "try-creative": false
   },
   "position": {
     "enabled": true,
