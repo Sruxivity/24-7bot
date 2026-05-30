@@ -30,7 +30,7 @@
       "enabled": true,
       "repeat": false,
       "messages": [
-        "/vanish",
+        "/vanish"
       ]
     },
     "chat-log": false,
