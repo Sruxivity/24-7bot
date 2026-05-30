@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dihg.aternos.me:24326",
+    "ip": "dihg.aternos.me",
     "port": 24326,
     "version": "1.21.1",
     "try-creative": true
